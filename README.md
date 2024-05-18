@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/MohdAliA98" target="blank"><img src="https://img.shields.io/twitter/follow/MohdAliA98?logo=twitter&style=for-the-badge" alt="MohdAliA98" /></a> </p>
 
-- 🔭 I’m currently working on **[Alvira Bags](https://github.com/mohdali03/alvira-bags)**
+- 🔭 I’m currently looking on **New Opportunity**
 
 - 🌱 I’m currently learning **DevOps**
 
