@@ -80,14 +80,30 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdali03&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali03&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
 </p>
 
 ---
 
-**👨‍💻 Featured Projects:**
-- [Project Name 1](https://github.com/mohdali03/project1) - Brief description of the project.
-- [Project Name 2](https://github.com/mohdali03/project2) - Brief description of the project.
+## 👨‍💻 Featured Projects
+
+### [Big Royal](https://big-royal.in)
+- Developed an e-commerce platform using **Next.js** achieving a 100% seamless user experience.
+- Enhanced website visibility by 50% through SEO improvements, leading to a 40% increase in organic traffic.
+- Integrated **Razorpay** for secure payment processing, facilitating transactions worth ₹1,000,000+.
+- Collaborated with **Shiprocket** for efficient shipping and order management, improving delivery times by 30%.
+- Achieved performance enhancements, resulting in a 60% faster loading time for users.
+
+### [EventMind](https://github.com/mohdali03/EventMind) | [Live Demo](https://event-mind.vercel.app/)
+- Created a user-friendly app streamlining event management tasks, increasing user organization efficiency by 70%.
+- Implemented secure login features, safeguarding user data and enhancing privacy compliance by 100%.
+- Overhauled the event resource delivery process, reducing costs by 25% and ensuring timely solutions.
+- Utilized **Next.js** for front-end, **Node.js** for back-end, and **MongoDB** for efficient handling of 10,000+ events.
+
+### [Alvira Bags](http://alvirabags.in)
+- Led the development of an e-commerce site that achieved a #1 ranking on search engines through targeted SEO strategies.
+- Improved website speed by 40%, resulting in average load times under 2 seconds and enhanced user experience.
+- Collaborated within a team of 5 developers, contributing to both back-end (**Node.js**) and front-end (**React.js**) to deliver a high-performing site.
 
 ---
 
