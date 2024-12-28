@@ -175,6 +175,4 @@ Languages and Tools
 - Improved website speed by 40%, resulting in average load times under 2 seconds and enhanced user experience.
 - Collaborated within a team of 5 developers, contributing to both back-end (**Node.js**) and front-end (**React.js**) to deliver a high-performing site.
 
----
 
-Feel free to adapt the stats and sections as your profile evolves!
