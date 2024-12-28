@@ -92,9 +92,9 @@
   </a> 
 </p>
 
-[![Ali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohdali03&&theme=xcode)](https://github.com/mohdali03)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdali03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohdali03" /></p>
+[![Mohd Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdali03)](https://github.com/mohdali03/github-readme-stats)
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=mohdali03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohdali03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdali03&show_icons=true&locale=en&theme=tokyonight" alt="mohdali03" /></p>
 
