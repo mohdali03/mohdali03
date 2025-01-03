@@ -137,15 +137,9 @@ Languages and Tools
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smit3949&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali03&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
+       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdali03&theme=algolia" alt="GitHub Streak Stats" />
     </td>
   </tr>
-<tr>
-  <td colspan=2 align='center'>
-    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdali03&theme=tokyonight" alt="GitHub Streak Stats" />
-  </td>
-</tr>
 </table>
 
 <p align="left">
